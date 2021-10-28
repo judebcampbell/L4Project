@@ -23,8 +23,6 @@
 
 ### 5 Oct 2021
 * *1 hour* Reading and understanding starter papers
-* *1 hour* Prepare Overleaf to share content with advisor
-
 ### 6 Oct 2021
 * *0.5 hour* Background reading relating to papers
 
@@ -73,6 +71,7 @@
 
 ### 25 Oct 2021
 * *1 hour* Meeting with PhD Student about PLC attacks
+* * *1 hour* Prepare Overleaf to share content with advisor & Migrate research writing
 ### 26 Oct 2021
 
 ### 27 Oct 2021
