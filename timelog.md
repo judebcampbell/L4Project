@@ -23,6 +23,7 @@
 
 ### 5 Oct 2021
 * *1 hour* Reading and understanding starter papers
+* *1 hour* Prepare Overleaf to share content with advisor
 
 ### 6 Oct 2021
 * *0.5 hour* Background reading relating to papers
