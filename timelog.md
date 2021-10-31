@@ -82,7 +82,8 @@
 * *0.5 hour* Meeting with Supervisor
 
 ### 29 Oct 2021
-
+* *2 hours* Research into Machine Learning and relation to Cyber Security
 ### 30 Oct 2021
 
 ### 31 Oct 2021
+* *1 hour* Paper summaries from research
