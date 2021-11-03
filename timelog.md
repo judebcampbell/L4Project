@@ -87,3 +87,16 @@
 
 ### 31 Oct 2021
 * *1 hour* Paper summaries from research
+*
+
+## Week 6
+### 1 Nov 2021
+### 2 Nov 2021
+* *2 hour* Discussion of goals and practial focus in Lab w/ Macro Cook
+* *1 hour* Research into approaches and planning of next steps
+### 3 Nov 2021
+* *1 hour* Research and reading of Papers. 
+### 4 Nov 2021
+### 5 Nov 2021
+### 6 Nov 2021
+### 7 Nov 2021
