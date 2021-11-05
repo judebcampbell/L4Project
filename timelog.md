@@ -86,7 +86,7 @@
 ### 30 Oct 2021
 
 ### 31 Oct 2021
-* *1 hour* Paper summaries from research
+* *1 hour* Paper summaries from research into ML and relation to Cyber Security
 *
 
 ## Week 6
@@ -96,10 +96,14 @@
 * *1 hour* Research into approaches and planning of next steps
 ### 3 Nov 2021
 * *1 hour* Research and reading of Papers. 
-* * *0.5 hour* Machine Learning environment set up
+* *0.5 hour* Machine Learning environment set up
+
 ### 4 Nov 2021
 * *1 hour* Research and planning of Machine Learning 
 * *1 hour* Practicing data management with Pandas package
+* *0.5 hour* Summary Report for Supervisor
 ### 5 Nov 2021
+* *1.5 hours* Research papers about Intrusion Detection Techniques
+* *1 hour* Set up and familiarisation with Lab software
 ### 6 Nov 2021
 ### 7 Nov 2021
