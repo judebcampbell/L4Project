@@ -90,6 +90,7 @@
 *
 
 ## Week 6
+
 ### 1 Nov 2021
 ### 2 Nov 2021
 * *2 hour* Discussion of goals and practial focus in Lab w/ Macro Cook
@@ -105,5 +106,18 @@
 ### 5 Nov 2021
 * *1.5 hours* Research papers about Intrusion Detection Techniques
 * *1 hour* Set up and familiarisation with Lab software
+* *2 hours* Research into intrusion detection systems and PLC attacks 
 ### 6 Nov 2021
 ### 7 Nov 2021
+
+## Week 7
+
+### 8 Nov 2021
+* *1 hour* Learning and familiarisiation with Wireshark
+### 9 Nov 2021
+* *2 hours* Initial development of a classification model in Python
+### 10 Nov 2021
+### 11 Nov 2021
+### 12 Nov 2021
+### 13 Nov 2021
+### 14 Nov 2021
