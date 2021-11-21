@@ -120,4 +120,21 @@
 ### 11 Nov 2021
 ### 12 Nov 2021
 ### 13 Nov 2021
+* *1 hour* Reading research papers on PLC attacks
 ### 14 Nov 2021
+
+## Week 8
+
+### 15 Nov 2021
+### 16 Nov 2021
+### 17 Nov 2021
+* *2 hours* Reading into deep learning methods and approaches
+* *1.5 hours* Tutorial about deep learning for anomaly detection
+### 18 Nov 2021
+* *2 hours* Running attacks and analysing data in the lab
+### 19 Nov 2021
+* *2 hours* Reviewing existing readings and begining literature review
+* *1.5 hours* Finish tutorial about deep learning for anomaly detection
+### 20 Nov 2021
+* *0.5 hour* Downloading and analysing data in the lab
+### 21 Nov 2021
