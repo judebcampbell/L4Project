@@ -138,3 +138,62 @@
 ### 20 Nov 2021
 * *0.5 hour* Downloading and analysing data in the lab
 ### 21 Nov 2021
+
+## Week 9
+
+### 22 Nov 2021
+### 23 Nov 2021
+### 24 Nov 2021
+* *2 hours* Reading into deep learning methods and approaches
+* *1.5 hours* Tutorial about deep learning for anomaly detection
+### 25 Nov 2021
+* *2 hours* Running attacks and analysing data in the lab
+### 26 Nov 2021
+* *2 hours* Reviewing existing readings and begining literature review
+* *1.5 hours* Finish tutorial about deep learning for anomaly detection
+* *1 hour* Meeting with Marco in the lab to discuss progress and direction
+### 27 Nov 2021
+* *1 hour* Downloading and analysing data in the lab
+### 28 Nov 2021
+
+## Week 10
+
+### 29 Nov 2021
+### 30 Nov 2021
+### 1 Dec 2021
+* *1 hour* Meeting with Marco to set up testbed communication
+* *1 hour* Research into Client-Server communications with PLCs
+### 2 Dec 2021
+### 3 Dec 2021
+### 4 Dec 2021
+### 5 Dec 2021
+
+# Semester 2
+
+## Week 1
+
+### 10 Jan 2022
+### 11 Jan 2022
+* *1 hour* Review progress from last semester
+* *1 hour* Prepare for work this semester
+### 12 Jan 2022
+* *1 hour* Research into PLC programming 
+* *1 hour* Research into PLC communication protocols
+### 13 Jan 2022
+### 14 Jan 2022
+* *1 hour* Attempt to connect to testbed, and fail. 
+### 15 Jan 2022
+* *0.5 hour* Try and connect to testbed again and try and fix the problem
+### 16 Jan 2022
+
+## Week 2
+
+### 17 Jan 2022
+* *2 hours* Fix? problem accessing the testbed with the Remote Desktop
+### 18 Jan 2022
+* *2 hours* Set up Dissertation LaTeX document for writing later in term, migrate existing writing
+### 19 Jan 2022
+### 20 Jan 2022
+### 21 Jan 2022
+### 22 Jan 2022
+### 23 Jan 2022
