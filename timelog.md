@@ -191,9 +191,14 @@
 ### 17 Jan 2022
 * *2 hours* Fix? problem accessing the testbed with the Remote Desktop
 ### 18 Jan 2022
-* *2 hours* Set up Dissertation LaTeX document for writing later in term, migrate existing writing
+* *1 hour* Set up Dissertation LaTeX document for writing later in term, migrate existing writing
+* *2 hour* Figuring out TIA portal and programming PLC interactions
 ### 19 Jan 2022
+* *1 hour* Research into s7 communication protocol and PLC communication
 ### 20 Jan 2022
+* *2 hours* Research into programming PLC communication and how to fix problems encounter on Tuesday in the lab
 ### 21 Jan 2022
 ### 22 Jan 2022
+* *1 hour* Fixing problem with connection to PLC
+* *2 hours* Programming PLC interaction and migrating work to new project on TIA Portal
 ### 23 Jan 2022
