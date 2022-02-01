@@ -213,12 +213,15 @@
 * *0.5 hour* Remove files from remote desktop for addition to GitLab
 * *1 hour* Initial data collection of baseline interactions
 ### 29 Jan 2022
+* *1 hour* Consider the best attack methods for the given PLC project
 ### 30 Jan 2022
 
 ## Week 4
 
 ### 31 Jan 2022
+* *1 hour* Write update and review and update timeline for semester
 ### 1 Feb 2022
+
 ### 2 Feb 2022
 ### 3 Feb 2022
 ### 4 Feb 2022
