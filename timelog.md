@@ -202,3 +202,26 @@
 * *1 hour* Fixing problem with connection to PLC
 * *2 hours* Programming PLC interaction and migrating work to new project on TIA Portal
 ### 23 Jan 2022
+
+## Week 3
+### 24 Jan 2022
+### 25 Jan 2022
+### 26 Jan 2022
+### 27 Jan 2022
+* *2 hours* Test and refine TIA portal project for testing
+### 28 Jan 2022
+* *0.5 hour* Remove files from remote desktop for addition to GitLab
+* *1 hour* Initial data collection of baseline interactions
+### 29 Jan 2022
+### 30 Jan 2022
+
+## Week 4
+
+### 31 Jan 2022
+### 1 Feb 2022
+### 2 Feb 2022
+### 3 Feb 2022
+### 4 Feb 2022
+### 5 Feb 2022
+### 6 Feb 2022
+
