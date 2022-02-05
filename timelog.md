@@ -221,7 +221,7 @@
 ### 31 Jan 2022
 * *1 hour* Write update and review and update timeline for semester
 ### 1 Feb 2022
-
+* *2 hours* Planning attacks mechanisms for communicationx
 ### 2 Feb 2022
 ### 3 Feb 2022
 ### 4 Feb 2022
