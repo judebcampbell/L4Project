@@ -8,12 +8,9 @@
 ## Week 1
 
 ### 30 Sep 2021
-
 * *1 hour* Read the project guidance notes
 * *0.5 hour* First meeting with supervisor
-
 ### 1 Oct 2021
-* *0.5 hour* Set up Github for project
 ### 2 Oct 2021
 * *1 hour* Background research into PLC and Ladder Logi
 ### 3 Oct 2021
@@ -25,43 +22,34 @@
 * *1 hour* Reading and understanding starter papers
 ### 6 Oct 2021
 * *0.5 hour* Background reading relating to papers
-
 ### 7 Oct 2021
 * *1 hour* Writing summaries of papers 
-
 ### 8 Oct 2021
 * *1 hour* Project Understanding and technical proposal writing
 
 ## Week 3
 
 ### 11 Oct 2021
-
 ### 12 Oct 2021
-
 ### 13 Oct 2021
 * *0.5 hour* meeting preperation
 ### 14 Oct 2021
-
 * *0.5 hour* Meeting with Supervisor
-
 ### 15 Oct 2021
 * *1 hour* Background reading into machine learning provided by supervisor
 ### 16 Oct 2021
-
+* *1 hour* Background reading and research 
 ### 17 Oct 2021
 
 ## Week 4
 
 ### 18 Oct 2021
-
 ### 19 Oct 2021
-
 ### 20 Oct 2021
 * *1 hour* Reading Research Papers
 ### 21 Oct 2021
-
+* *1 hour* Finding and collating Research papers to read
 ### 22 Oct 2021
-
 ### 23 Oct 2021
 * *2 hour* Reading Research Papers
 ### 24 Oct 2021
@@ -71,23 +59,20 @@
 
 ### 25 Oct 2021
 * *1 hour* Meeting with PhD Student about PLC attacks
-* * *1 hour* Prepare Overleaf to share content with advisor & Migrate research writing
+* *1 hour* Prepare Overleaf to share content with advisor & Migrate research writing
 ### 26 Oct 2021
 
 ### 27 Oct 2021
 * *1 hour* Finding and reading papers about PLC attacks
 ### 28 Oct 2021
-
 * *0.5 hour* Preperation for meeting
 * *0.5 hour* Meeting with Supervisor
-
 ### 29 Oct 2021
 * *2 hours* Research into Machine Learning and relation to Cyber Security
 ### 30 Oct 2021
-
 ### 31 Oct 2021
 * *1 hour* Paper summaries from research into ML and relation to Cyber Security
-*
+
 
 ## Week 6
 
@@ -98,7 +83,6 @@
 ### 3 Nov 2021
 * *1 hour* Research and reading of Papers. 
 * *0.5 hour* Machine Learning environment set up
-
 ### 4 Nov 2021
 * *1 hour* Research and planning of Machine Learning 
 * *1 hour* Practicing data management with Pandas package
@@ -106,7 +90,6 @@
 ### 5 Nov 2021
 * *1.5 hours* Research papers about Intrusion Detection Techniques
 * *1 hour* Set up and familiarisation with Lab software
-* *2 hours* Research into intrusion detection systems and PLC attacks 
 ### 6 Nov 2021
 ### 7 Nov 2021
 
@@ -114,6 +97,7 @@
 
 ### 8 Nov 2021
 * *1 hour* Learning and familiarisiation with Wireshark
+*  *2 hours* Research into intrusion detection systems and PLC attacks 
 ### 9 Nov 2021
 * *2 hours* Initial development of a classification model in Python
 ### 10 Nov 2021
@@ -168,6 +152,30 @@
 ### 4 Dec 2021
 ### 5 Dec 2021
 
+## Week 11
+
+### 6 Dec 2021
+### 7 Dec 2021
+### 8 Dec 2021
+### 9 Dec 2021
+### 10 Dec 2021
+### 11 Dec 2021
+### 12 Dec 2021
+
+
+## Week 12
+
+### 13 Dec 2021
+### 14 Dec 2021
+* *2 hours* Review current progress and write satus report
+### 15 Dec 2021
+### 16 Dec 2021
+### 17 Dec 2021
+* *1 hour* Finish Status Report
+* *0.5 hour* Provide Status report and update to supervisor
+### 18 Dec 2021
+### 19 Dec 2021
+
 # Semester 2
 
 ## Week 1
@@ -210,7 +218,7 @@
 ### 27 Jan 2022
 * *2 hours* Test and refine TIA portal project for testing
 ### 28 Jan 2022
-* *0.5 hour* Remove files from remote desktop for addition to GitLab
+* *0.5 hour* Remove files from remote desktop for addition to GitHub
 * *1 hour* Initial data collection of baseline interactions
 ### 29 Jan 2022
 * *1 hour* Consider the best attack methods for the given PLC project
@@ -221,10 +229,25 @@
 ### 31 Jan 2022
 * *1 hour* Write update and review and update timeline for semester
 ### 1 Feb 2022
-* *2 hours* Planning attacks mechanisms for communicationx
+* *2 hours* Planning attacks mechanisms for communication
 ### 2 Feb 2022
 ### 3 Feb 2022
 ### 4 Feb 2022
 ### 5 Feb 2022
+* *0.5 hours* Set up Github
 ### 6 Feb 2022
+* *1.5 hours* Program and test attack in the lab
+
+## Week 5
+
+### 7 Feb 2022
+### 8 Feb 2022
+* *1.5 hours* Spend time in the lab running attacks and manually analaysing network traffic
+### 9 Feb 2022
+### 10 Feb 2022
+### 11 Feb 2022
+* *1 hour* Write attack vectors
+### 12 Feb 2022
+### 13 Feb 2022
+
 
