@@ -307,7 +307,9 @@
 ### 17 Mar 2022
 * *1 hour* Meeting with Marco to discuss 
 ### 18 Mar 2022
+* *2 hours* Program function to take CSV file and generate df of features
 ### 19 Mar 2022
+* *1.5 hours* Test feature set on a range of classifiers to evaluate effectiveness
 ### 20 Mar 2022
 
 ## Week 11
@@ -316,6 +318,7 @@
 * *2 hours* Writing introduction section and background on ICS and PLCs
 * *1.5 hours* Create and insert Network diagrams
 ### 22 Mar 2022
+* *2 hours* Write and test function to print metrics of a classifier
 ### 23 Mar 2022
 ### 24 Mar 2022
 ### 25 Mar 2022
