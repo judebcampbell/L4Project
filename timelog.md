@@ -245,9 +245,87 @@
 * *1.5 hours* Spend time in the lab running attacks and manually analaysing network traffic
 ### 9 Feb 2022
 ### 10 Feb 2022
+* *2 hours* Read and summarise papers into cases of PLC attacks
 ### 11 Feb 2022
 * *1 hour* Write attack vectors
 ### 12 Feb 2022
 ### 13 Feb 2022
 
+## Week 6
+### 14 Feb 2022
+### 15 Feb 2022
+* *0.5 hours* Plan and preperation for meeting with advisor
+* *0.5 hours* Meeting with advisor
+### 16 Feb 2022
+### 17 Feb 2022
+### 18 Feb 2022
+### 19 Feb 2022
+### 20 Feb 2022
 
+# Week 7
+
+### 21 Feb 2022
+### 22 Feb 2022
+### 23 Feb 2022
+### 24 Feb 2022
+### 25 Feb 2022
+### 26 Feb 2022
+### 27 Feb 2022
+
+## Week 8
+
+### 28 Feb 2022
+### 1 Mar 2022
+### 2 Mar 2022
+### 3 Mar 2022 
+### 4 Mar 2022
+### 5 Mar 2022
+### 6 Mar 2022
+* *2 hours* Testing and planning methodology for full attack data collection
+* *1 hours* Expand the functionalilty of exisiting extra PLC attack
+
+## Week 9
+
+### 7 Mar 2022
+* *1 hours* Test expanded fucntionality
+### 8 Mar 2022
+* *2 hours* Trial Linear SVM unsupervised learning model, training and tweaking. 
+### 9 Mar 2022
+### 10 Mar 2022
+### 11 Mar 2022
+### 12 Mar 2022
+### 13 Mar 2022
+
+## Week 10
+
+### 14 Mar 2022
+### 15 Mar 2022
+* *2.5 hours* Writing Network section
+* *1 hour* Creating and adding Ladder Logic to dissertation. 
+### 16 Mar 2022
+* *1 hour* Planning background section
+### 17 Mar 2022
+* *1 hour* Meeting with Marco to discuss 
+### 18 Mar 2022
+### 19 Mar 2022
+### 20 Mar 2022
+
+## Week 11
+
+### 21 Mar 2022
+* *2 hours* Writing introduction section and background on ICS and PLCs
+* *1.5 hours* Create and insert Network diagrams
+### 22 Mar 2022
+### 23 Mar 2022
+### 24 Mar 2022
+### 25 Mar 2022
+### 26 Mar 2022
+### 27 Mar 2022
+
+## Week 12
+
+### 28 Mar 2022
+### 29 Mar 2022
+### 30 Mar 2022
+### 31 Mar 2022
+### 1 Apr 2022
