@@ -291,8 +291,10 @@
 ### 8 Mar 2022
 * *2 hours* Trial Linear SVM unsupervised learning model, training and tweaking. 
 ### 9 Mar 2022
+* *1 hour* Planning Network section of dissertation
 ### 10 Mar 2022
 ### 11 Mar 2022
+* *1.5 hours* Creating ladder diagrams for Network section
 ### 12 Mar 2022
 ### 13 Mar 2022
 
@@ -305,13 +307,14 @@
 ### 16 Mar 2022
 * *1 hour* Planning background section
 ### 17 Mar 2022
-* *1 hour* Meeting with Marco to discuss 
+* *1 hour* Meeting with Marco to discuss how to imporve classifier performance
 ### 18 Mar 2022
 * *2 hours* Program function to take CSV file and generate df of features
 ### 19 Mar 2022
 * *1.5 hours* Test feature set on a range of classifiers to evaluate effectiveness
 ### 20 Mar 2022
-
+* *1.5 hours* Find papers and prepare for background section
+* * *1 hour* Long data collection to improve model
 ## Week 11
 
 ### 21 Mar 2022
@@ -319,16 +322,22 @@
 * *1.5 hours* Create and insert Network diagrams
 ### 22 Mar 2022
 * *2 hours* Write and test function to print metrics of a classifier
+* *1 hour* Write attack methods
 ### 23 Mar 2022
 ### 24 Mar 2022
+* *2 hours* Evaluate results
 ### 25 Mar 2022
 ### 26 Mar 2022
+* *4 hours* Proof reading and expanding existing sections
 ### 27 Mar 2022
+* *5 hours* Expand Modelling section
 
 ## Week 12
 
 ### 28 Mar 2022
+* *2 hours* Environment Set up for trialling 
 ### 29 Mar 2022
+* *2.5 hours* Final test data collection
 ### 30 Mar 2022
 ### 31 Mar 2022
 ### 1 Apr 2022
